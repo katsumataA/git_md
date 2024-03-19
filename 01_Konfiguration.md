@@ -1,5 +1,5 @@
 # Verzeichnise / Dateien nicht ins Repo aufnehmen 
-Wenn Dateien nicht ins Repo aufgenommen werden soll, gibt es zwei Möglichkeiten. 
+Wenn Dateien nicht ins Repo aufgenommen werden sollen, gibt es zwei Möglichkeiten. 
 ## Möglichkeit: Die Datei .gitignore 
 Diese Datei kann in jedem Verzeichnis des Repos liegen. Es wird auf die Hierachie geachtet. Die .gitignore Datei im aktuellen Verzeichnis überschreibt die die .gitignore Datei im darüberliegenden Verzeichnis. 
 In der Datei werden "Patterns" gespeichert. Jede Zeile enthält ein Pattern. 
